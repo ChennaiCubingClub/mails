@@ -2,6 +2,7 @@
 
 Create 2 text files, 
   > mails.txt
+  
   > temp.txt 
   
 in the same directory as the script.py
