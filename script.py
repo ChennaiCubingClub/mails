@@ -1,3 +1,4 @@
+#open the file with initail mails
 with open('mails.txt') as f:
     original = f.read().splitlines()
     
