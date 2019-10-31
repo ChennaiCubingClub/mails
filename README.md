@@ -3,7 +3,8 @@
 Create 2 text files, 
   > mails.txt
   > temp.txt 
-  in the same directory as the script.py
+  
+in the same directory as the script.py
 
 add new comp's mails to temp.txt.
 
